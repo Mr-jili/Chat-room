@@ -1,4 +1,4 @@
-Chat聊天室
+Chat聊天室(fork)
 ---
 
 chat聊天室是一个基于nodejs+express+socket.io模块构建的
